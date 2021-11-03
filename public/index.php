@@ -1,4 +1,4 @@
 <?php
-   require_once ‘MVC/app/init.php’;
+   require_once '../app/init.php';
    $new = new app;
 ?>
